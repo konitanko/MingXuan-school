@@ -1,0 +1,33 @@
+@media only screen and (max-width:776px) {
+	#jian {
+		margin-top: 10px;
+	}
+	#xiao {
+		background-color: #550300;
+		margin-top: 10px;
+		width: 100%;
+		color: #CA7D01;
+	}
+	.con {
+		display: none;
+	}
+	#nav-main {
+		position: fixed;
+		top: 0px;
+		z-index: 9999;
+		width: 100%;
+	}
+	#chan {
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width:776px) {
+	.con2 {
+		display: none;
+	}
+	#carousel-example-generic {
+		display: none;
+	}
+	
+}
